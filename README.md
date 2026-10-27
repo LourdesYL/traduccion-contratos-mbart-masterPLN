@@ -76,6 +76,7 @@ Los ejemplos permiten examinar estos problemas, pero no constituyen una evaluaci
 - No se documenta una evaluación sistemática de fidelidad, terminología y omisiones.
 
 Estas limitaciones se conservan como parte del registro académico y se revisan sin repetir los experimentos.
+[Consultar la revisión crítica y las posibles correcciones](revision_critica.md).
 
 ## Consultar el cuaderno
 
